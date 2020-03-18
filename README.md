@@ -25,6 +25,7 @@ Given `sample.json`:
 ```
 
 ```
+➝  cat sample.json | sourcemap-viz
 check-stack.ts:
 
   /* eslint-disable @typescript-eslint/no-non-null-assertion */
