@@ -1,6 +1,6 @@
 {
   "name": "sourcemap-viz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quick and dirty sourcemap visualizer.",
   "main": "sourcemap-viz.js",
   "bin": {
