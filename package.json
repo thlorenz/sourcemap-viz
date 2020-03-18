@@ -1,0 +1,37 @@
+{
+  "name": "sourcemap-viz",
+  "version": "0.0.0",
+  "description": "Quick and dirty sourcemap visualizer.",
+  "main": "sourcemap-viz.js",
+  "bin": {
+    "sourcemap-viz": "sourcemap-viz.js"
+  },
+  "files": [
+    "./sourcemap-viz.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sourcemap",
+    "source",
+    "map",
+    "visualization"
+  ],
+  "author": "Thorsten Lorenz <thlorenz@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "source-map": "^0.7.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thlorenz/sourcemap-viz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thlorenz/sourcemap-viz/issues"
+  },
+  "homepage": "https://github.com/thlorenz/sourcemap-viz#readme"
+}

@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "sources": [
+    "check-stack.ts"
+  ],
+  "names": [
+    "stack1",
+    "Error",
+    "stack",
+    "stack2",
+    "stack3"
+  ],
+  "mappings": ";;;;;;;AAAA;AACO,MAAMA,MAAM,GAAG,IAAIC,KAAJ,GAAYC,KAA3B;;AACA,MAAMC,MAAM,GAAG,IAAIF,KAAJ,GAAYC,KAA3B;;AACA,MAAME,MAAM,GAAG,IAAIH,KAAJ,GAAYC,KAA3B",
+  "sourcesContent": [
+    "/* eslint-disable @typescript-eslint/no-non-null-assertion */\nexport const stack1 = new Error().stack!\nexport const stack2 = new Error().stack!\nexport const stack3 = new Error().stack!\n"
+  ]
+}
